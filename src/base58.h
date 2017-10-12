@@ -276,7 +276,7 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 38,
+        PUBKEY_ADDRESS = 38, // Spikecoin addresses start with S
         SCRIPT_ADDRESS = 85,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,

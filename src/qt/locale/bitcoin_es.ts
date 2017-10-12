@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GokuCoin</source>
-        <translation>Acerca de GokuCoin</translation>
+        <source>About SpikeCoin</source>
+        <translation>Acerca de SpikeCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GokuCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GokuCoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;SpikeCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SpikeCoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GokuCoin developers</source>
+Copyright © 2014 The SpikeCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GokuCoin developers</translation>
+Copyright © 2014 The SpikeCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GokuCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de GokuCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your SpikeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de SpikeCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GokuCoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de GokuCoin</translation>
+        <source>Sign a message to prove you own a SpikeCoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de SpikeCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GokuCoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de GokuCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified SpikeCoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de SpikeCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>GokuCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GokuCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>SpikeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>SpikeCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GokuCoin</source>
-        <translation>Mostrar información sobre GokuCoin</translation>
+        <source>Show information about SpikeCoin</source>
+        <translation>Mostrar información sobre SpikeCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GokuCoin address</source>
-        <translation>Enviar monedas a una dirección de GokuCoin</translation>
+        <source>Send coins to a SpikeCoin address</source>
+        <translation>Enviar monedas a una dirección de SpikeCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GokuCoin</source>
-        <translation>Modificar las opciones de configuración para GokuCoin</translation>
+        <source>Modify configuration options for SpikeCoin</source>
+        <translation>Modificar las opciones de configuración para SpikeCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>GokuCoin</source>
-        <translation>GokuCoin</translation>
+        <source>SpikeCoin</source>
+        <translation>SpikeCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GokuCoin</source>
-        <translation>Acerca de GokuCoin</translation>
+        <source>&amp;About SpikeCoin</source>
+        <translation>Acerca de SpikeCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GokuCoin client</source>
-        <translation>Cliente GokuCoin</translation>
+        <source>SpikeCoin client</source>
+        <translation>Cliente SpikeCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GokuCoin network</source>
-        <translation><numerusform>%n conexión activa a la red GokuCoin</numerusform><numerusform>%n conexiones activas a la red GokuCoin</numerusform></translation>
+        <source>%n active connection(s) to SpikeCoin network</source>
+        <translation><numerusform>%n conexión activa a la red SpikeCoin</numerusform><numerusform>%n conexiones activas a la red SpikeCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -662,8 +662,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GokuCoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de GokuCoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid SpikeCoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de SpikeCoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -722,8 +722,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GokuCoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. GokuCoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. SpikeCoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. SpikeCoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1056,8 +1056,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GokuCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de GokuCoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SpikeCoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de SpikeCoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GokuCoin-Qt</source>
-        <translation>GokuCoin-Qt</translation>
+        <source>SpikeCoin-Qt</source>
+        <translation>SpikeCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GokuCoin after logging in to the system.</source>
-        <translation>Iniciar GokuCoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start SpikeCoin after logging in to the system.</source>
+        <translation>Iniciar SpikeCoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GokuCoin on system login</source>
-        <translation>&amp;Iniciar GokuCoin al inicio del sistema</translation>
+        <source>&amp;Start SpikeCoin on system login</source>
+        <translation>&amp;Iniciar SpikeCoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GokuCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente GokuCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the SpikeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente SpikeCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GokuCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de GokuCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the SpikeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de SpikeCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GokuCoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar GokuCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting SpikeCoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar SpikeCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1273,8 +1273,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GokuCoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de GokuCoin en la lista de transacciones o no.</translation>
+        <source>Whether to show SpikeCoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de SpikeCoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1320,8 +1320,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GokuCoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar GokuCoin.</translation>
+        <source>This setting will take effect after restarting SpikeCoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar SpikeCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GokuCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red GokuCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SpikeCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red SpikeCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1555,8 +1555,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GokuCoin-Qt help message to get a list with possible GokuCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de GokuCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para GokuCoin.</translation>
+        <source>Show the SpikeCoin-Qt help message to get a list with possible SpikeCoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de SpikeCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para SpikeCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,13 +1575,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GokuCoin - Debug window</source>
-        <translation>GokuCoin - Ventana de depuración</translation>
+        <source>SpikeCoin - Debug window</source>
+        <translation>SpikeCoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GokuCoin Core</source>
-        <translation>Núcleo GokuCoin</translation>
+        <source>SpikeCoin Core</source>
+        <translation>Núcleo SpikeCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,8 +1590,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GokuCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de GokuCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the SpikeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de SpikeCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GokuCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de GokuCoin</translation>
+        <source>Welcome to the SpikeCoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de SpikeCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,8 +1759,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección GokuCoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección SpikeCoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GokuCoin address</source>
-        <translation>ADVERTENCIA: Dirección GokuCoin inválida</translation>
+        <source>WARNING: Invalid SpikeCoin address</source>
+        <translation>ADVERTENCIA: Dirección SpikeCoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1933,8 +1933,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección GokuCoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección SpikeCoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1994,8 +1994,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GokuCoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección GokuCoin.</translation>
+        <source>Sign the message to prove you own this SpikeCoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección SpikeCoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,8 +2026,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GokuCoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección GokuCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified SpikeCoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección SpikeCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección GokuCoin (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección SpikeCoin (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GokuCoin signature</source>
-        <translation>Introduce la firma GokuCoin</translation>
+        <source>Enter SpikeCoin signature</source>
+        <translation>Introduce la firma SpikeCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2618,8 +2618,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GokuCoin version</source>
-        <translation>versión GokuCoin</translation>
+        <source>SpikeCoin version</source>
+        <translation>versión SpikeCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gokucoind</source>
-        <translation>Envía un comando a -server o gokucoind</translation>
+        <source>Send command to -server or spikecoind</source>
+        <translation>Envía un comando a -server o spikecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,13 +2651,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gokucoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: gokucoin.conf)</translation>
+        <source>Specify configuration file (default: spikecoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: spikecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gokucoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: gokucoind.pid)</translation>
+        <source>Specify pid file (default: spikecoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: spikecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GokuCoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo GokuCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SpikeCoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo SpikeCoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gokucoinrpc
+rpcuser=spikecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SpikeCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=gokucoinrpc
+rpcuser=spikecoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;SpikeCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3149,13 +3149,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GokuCoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. GokuCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SpikeCoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. SpikeCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GokuCoin</source>
-        <translation>GokuCoin</translation>
+        <source>SpikeCoin</source>
+        <translation>SpikeCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GokuCoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de GokuCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SpikeCoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de SpikeCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GokuCoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie GokuCoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart SpikeCoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie SpikeCoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GokuCoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. GokuCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. SpikeCoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. SpikeCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

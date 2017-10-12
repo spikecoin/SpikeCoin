@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GokuCoin</source>
-        <translation>Über GokuCoin</translation>
+        <source>About SpikeCoin</source>
+        <translation>Über SpikeCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GokuCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GokuCoin&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;SpikeCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SpikeCoin&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GokuCoin developers</source>
+Copyright © 2014 The SpikeCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GokuCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre GokuCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
+        <source>These are your SpikeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre SpikeCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,7 +78,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GokuCoin address</source>
+        <source>Sign a message to prove you own a SpikeCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -93,7 +93,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GokuCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified SpikeCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -261,7 +261,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-58"/>
-        <source>GokuCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>SpikeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -375,7 +375,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GokuCoin</source>
+        <source>Show information about SpikeCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,12 +425,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GokuCoin address</source>
+        <source>Send coins to a SpikeCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GokuCoin</source>
+        <source>Modify configuration options for SpikeCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -470,7 +470,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-200"/>
-        <source>GokuCoin</source>
+        <source>SpikeCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GokuCoin</source>
+        <source>&amp;About SpikeCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -537,12 +537,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GokuCoin client</source>
+        <source>SpikeCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GokuCoin network</source>
+        <source>%n active connection(s) to SpikeCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GokuCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid SpikeCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -716,7 +716,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GokuCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. SpikeCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1036,8 +1036,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GokuCoin address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige GokuCoin Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SpikeCoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige SpikeCoin Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1055,7 +1055,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GokuCoin-Qt</source>
+        <source>SpikeCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1128,13 +1128,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GokuCoin after logging in to the system.</source>
-        <translation>Automatisch GokuCoin starten beim Einloggen in das System.</translation>
+        <source>Automatically start SpikeCoin after logging in to the system.</source>
+        <translation>Automatisch SpikeCoin starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GokuCoin on system login</source>
-        <translation>&amp;Starte GokuCoin bei Systemstart</translation>
+        <source>&amp;Start SpikeCoin on system login</source>
+        <translation>&amp;Starte SpikeCoin bei Systemstart</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1153,8 +1153,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GokuCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den GokuCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the SpikeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den SpikeCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1163,7 +1163,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GokuCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the SpikeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1238,7 +1238,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GokuCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting SpikeCoin.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GokuCoin addresses in the transaction list or not.</source>
-        <translation>GokuCoin Adressen in der Überweisung anzeigen oder nicht.</translation>
+        <source>Whether to show SpikeCoin addresses in the transaction list or not.</source>
+        <translation>SpikeCoin Adressen in der Überweisung anzeigen oder nicht.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1300,7 +1300,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GokuCoin.</source>
+        <source>This setting will take effect after restarting SpikeCoin.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1319,8 +1319,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GokuCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem GokuCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SpikeCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem SpikeCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1535,7 +1535,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GokuCoin-Qt help message to get a list with possible GokuCoin command-line options.</source>
+        <source>Show the SpikeCoin-Qt help message to get a list with possible SpikeCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1555,13 +1555,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>GokuCoin - Debug window</source>
-        <translation>GokuCoin - Debug Fenster</translation>
+        <source>SpikeCoin - Debug window</source>
+        <translation>SpikeCoin - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GokuCoin Core</source>
-        <translation>GokuCoin Kern</translation>
+        <source>SpikeCoin Core</source>
+        <translation>SpikeCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1570,7 +1570,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GokuCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the SpikeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,7 +1580,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GokuCoin RPC console.</source>
+        <source>Welcome to the SpikeCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1739,7 +1739,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1839,7 +1839,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GokuCoin address</source>
+        <source>WARNING: Invalid SpikeCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1913,7 +1913,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1974,8 +1974,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GokuCoin address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser GokuCoin Adresse bist.</translation>
+        <source>Sign the message to prove you own this SpikeCoin address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser SpikeCoin Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2006,7 +2006,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GokuCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified SpikeCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2017,7 +2017,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GokuCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a SpikeCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2027,8 +2027,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GokuCoin signature</source>
-        <translation>GokuCoin Signatur eingeben</translation>
+        <source>Enter SpikeCoin signature</source>
+        <translation>SpikeCoin Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2598,7 +2598,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GokuCoin version</source>
+        <source>SpikeCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2608,8 +2608,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gokucoind</source>
-        <translation>Kommando versenden an -server oder gokucoind </translation>
+        <source>Send command to -server or spikecoind</source>
+        <translation>Kommando versenden an -server oder spikecoind </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,13 +2628,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gokucoin.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: gokucoin.conf)</translation>
+        <source>Specify configuration file (default: spikecoin.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: spikecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gokucoind.pid)</source>
-        <translation>PID Datei angeben (Standard: gokucoin.pid)</translation>
+        <source>Specify pid file (default: spikecoind.pid)</source>
+        <translation>PID Datei angeben (Standard: spikecoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2783,8 +2783,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GokuCoin will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist GokuCoin nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SpikeCoin will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist SpikeCoin nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2972,13 +2972,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gokucoinrpc
+rpcuser=spikecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SpikeCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3104,13 +3104,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GokuCoin is probably already running.</source>
-        <translation>Kann das Verzeichniss nicht einbinden %s. GokuCoin Brieftasche läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SpikeCoin is probably already running.</source>
+        <translation>Kann das Verzeichniss nicht einbinden %s. SpikeCoin Brieftasche läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GokuCoin</source>
-        <translation>GokuCoin</translation>
+        <source>SpikeCoin</source>
+        <translation>SpikeCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3144,13 +3144,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GokuCoin</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der GokuCoin Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SpikeCoin</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der SpikeCoin Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GokuCoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die GokuCoin Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart SpikeCoin to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die SpikeCoin Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3219,7 +3219,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GokuCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GokuCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. SpikeCoin is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
