@@ -327,3 +327,4 @@ Value dumpwallet(const Array& params, bool fHelp)
     file.close();
     return Value::null;
 }
+

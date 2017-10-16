@@ -20,6 +20,8 @@
 using namespace std;
 using namespace boost;
 
+const bool IsCalculatingGenesisBlockHash = false;
+
 //
 // Global state
 //
@@ -45,7 +47,6 @@ unsigned int nTargetSpacing_v2 = 2 * 60; // 2 minute
 unsigned int nStakeMinAge = 1 * 60 * 60;
 unsigned int nStakeMaxAge = -1; // unlimited
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
-
 int nCoinbaseMaturity = 5;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2621,7 +2622,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         // MainNet:
 
-        //CBlock(hash=000001faef25dec4fbcf906e6242621df2c183bf232f263d0ba5b101911e4563, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1507803482, nBits=1e0fffff, nNonce=164482, vtx=1, vchBlockSig=)
+        //CBlock(hash=000001faef25dec4fbcf906e6242621df2c183bf232f263d0ba5b101911e4563, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1507803482, nBits=1e0fffff, nNonce=1402949, vtx=1, vchBlockSig=)
         //  Coinbase(hash=12630d16a9, nTime=1507803482, ver=1, vin.size=1, vout.size=1, nLockTime=0)
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
@@ -2629,7 +2630,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         // TestNet:
 
-        //CBlock(hash=0000724595fb3b9609d441cbfb9577615c292abf07d996d3edabc48de843642d, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1507803482, nBits=1f00ffff, nNonce=216178, vtx=1, vchBlockSig=)
+        //CBlock(hash=0000724595fb3b9609d441cbfb9577615c292abf07d996d3edabc48de843642d, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1507803482, nBits=1f00ffff, nNonce=1402949, vtx=1, vchBlockSig=)
         //  Coinbase(hash=12630d16a9, nTime=1507803482, ver=1, vin.size=1, vout.size=1, nLockTime=0)
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
@@ -2649,7 +2650,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nVersion = 1;
         block.nTime    = 1507803482;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 607389 : 607389;
+        block.nNonce   = !fTestNet ? 1462726 : 1462726;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2675,7 +2676,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x4d8a4fc984145d3265638c099a648ee65cbdbe2da3c728b1be19bbd3a418bfd5"));
+        assert(block.hashMerkleRoot == uint256("0x25716ae5ba0ab9d917b401042ad0317658249f3ab413272171a60a57443e3e1f"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
