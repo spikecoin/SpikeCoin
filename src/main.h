@@ -56,13 +56,13 @@ static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20
 
 static const int64_t COIN_YEAR_REWARD = 1000 * CENT;
 
-static const uint256 hashGenesisBlock("0x000008d4e781c95eed05c2d1a9c2e69c2434cc89cec1a9278fff1bcbe8d22310");
-static const uint256 hashGenesisBlockTestNet("0x000008d4e781c95eed05c2d1a9c2e69c2434cc89cec1a9278fff1bcbe8d22310");
+static const uint256 hashGenesisBlock("0x000008279516f5242e427d76d2f46b83a860a6f030b30c201c6214dae54031ea");
+static const uint256 hashGenesisBlockTestNet("0x000008279516f5242e427d76d2f46b83a860a6f030b30c201c6214dae54031ea");
 
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
 
-extern libzerocoin::Params* ZCParams;
+extern libzerocoin::Params* ZCParamsnNonce;
 extern CScript COINBASE_FLAGS;
 extern CCriticalSection cs_main;
 extern std::map<uint256, CBlockIndex*> mapBlockIndex;
